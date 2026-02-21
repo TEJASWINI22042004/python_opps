@@ -9,7 +9,7 @@
 #     pass
 
 
-Example: Father + Mother → Son (Multiple Inheritance)
+# Example: Father + Mother → Son (Multiple Inheritance)
 
 class father:
     def __init__(self,surname,name):
